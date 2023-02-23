@@ -1,5 +1,5 @@
 {
-  "name": "davidxuuts/yii2-oauth2server",
+  "name": "davidxu/yii2-oauth2-server",
   "description": "OAuth 2.0 server for Yii 2.0 with MAC tokens support.",
   "license": "MIT",
   "keywords": [
@@ -41,12 +41,7 @@
   },
   "autoload": {
     "psr-4": {
-      "chervand\\yii2\\oauth2\\server\\": "/"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
+      "davidxu\\oauth2\\server\\": "/"
     }
   }
 }
