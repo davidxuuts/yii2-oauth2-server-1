@@ -7,7 +7,7 @@
  It also includes tokens revocation implementation based on [RFC7009](https://tools.ietf.org/html/rfc7009).
 
 ## Installation
-    composer require davidxuuts/yii2-oauth2server
+    composer require davidxu/yii2-oauth2-server
 
 ### Applying DB migrations
 
